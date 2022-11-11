@@ -1,5 +1,4 @@
 import 'package:boilerplate_project/core/services/api_service.dart';
-import 'package:get_it/get_it.dart';
 
 import '../../../../core/services_locator.dart';
 
